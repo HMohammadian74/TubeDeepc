@@ -64,7 +64,7 @@ This will:
 The simulation produces the following outputs:
 
 ### Performance Metrics
-| Method | MAE | Max Error | Violations | Avg |u| |
+| Method | MAE | Max Error | Violations | Avg u |
 |--------|-----|-----------|------------|----------|
 | Linear MPC | ~0.45 | ~2.10 | 12 | ~5.2 |
 | Standard DeePC | ~0.38 | ~1.85 | 8 | ~4.8 |
